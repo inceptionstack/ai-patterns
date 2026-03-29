@@ -1,5 +1,7 @@
 # Stateful Agent — Pattern Definition
 
+> **How this definition was developed:** See [conversation-log.md](conversation-log.md) for the full deliberation process — 5 rounds of adversarial refinement, 5 independent sub-agent naming evaluations, and convergence on final definition.
+
 ## Overview
 
 A **Stateful Agent** is an AI agent whose behavior is path-dependent — materially shaped by durable state that persists beyond any single session. Unlike a stateless agent, which begins every invocation from an identical baseline, a stateful agent's present behavior is a product of its history.
