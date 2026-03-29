@@ -1,5 +1,7 @@
 # Conversation Log — Stateful Agent Pattern Definition
 
+> **Final pattern definition:** See [pattern.md](pattern.md)
+>
 > **Date:** 2026-03-29
 > **Participants:** Roy Osherove (human), Loki@FastStart (AI agent)
 > **Duration:** ~4 hours (11:54 – 15:34 UTC)
