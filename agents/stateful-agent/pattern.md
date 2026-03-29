@@ -1,5 +1,7 @@
 # Stateful Agent — Pattern Definition
 
+> **Potential replacement names:** Resident Agent, Steward Agent, Sovereign Agent (see [Naming Considerations](#naming-considerations))
+>
 > **How this definition was developed:** See [conversation-log.md](conversation-log.md) for the full deliberation process — 5 rounds of adversarial refinement, 5 independent sub-agent naming evaluations, and convergence on final definition.
 
 ## Overview
